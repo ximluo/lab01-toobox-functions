@@ -2,6 +2,19 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Name
+Ximing Luo
+
+# Solution
+### Links：
+1. [Pulsing Flower](https://www.shadertoy.com/view/f3c3Wr)
+2. [Spinning Flower](https://www.shadertoy.com/view/N3c3Wr)
+3. [Sakura Watercolor](https://www.shadertoy.com/view/NXc3Dr)
+
+### 3 Sakura Watercolor
+![sakura watercolor](sakura-watercolor.gif)
+
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
